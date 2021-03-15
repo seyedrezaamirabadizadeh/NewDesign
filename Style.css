@@ -1,0 +1,61 @@
+body{
+    direction: rtl;
+}
+p {
+    font-family: yekan bakh;
+    font-size: 15px;
+    margin: -10px;
+    color: rgb(46, 46, 46);
+    text-align: center;
+}
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+font-family: yekan bakh medium;
+text-align: center;
+
+}
+
+.Span {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a{
+    display: inline-block;
+    vertical-align: middle;
+    width: 180px;
+     margin: 0;
+    padding: 10px;
+    background-color:rgb(129, 240, 25); 
+  
+    font-family: yekan bakh;
+    align-items: center;
+    text-decoration: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 15px;
+    color:white;
+}
+
+
+div{
+    align-items: center;
+    text-align: center;   
+    padding-top: 20px;
+    margin: 17px;
+    box-shadow: 0px 9px 28.48px 3.52px rgba(0, 0, 0, 0.107);
+    width: 200px;
+    height: 280px;
+    z-index: 5;
+    display: inline-block;
+}
+  
+
+
